@@ -1,2 +1,2 @@
 Hello！
-I'm a soloist
+I'm a soloist！
